@@ -1,34 +1,34 @@
-footer{
-    border: 1px solid teal;
-    background: teal;
+footer {
+  border: 1px solid teal;
+  background: teal;
 }
 
-.navbar-custom{
-    background-color: teal;
-    
+.navbar-custom {
+  background-color: teal;
 }
 
-.navbar-custom a{
-    color: white;
+.navbar-custom a {
+  color: white;
 }
-
+/* added hover pseudo class to nav bar */
+.navbar-custom a:hover { 
+    background-color: yellow;
+}
 /* reducing the built in marhin in jumbotron */
-#jumbotron-size{
-    margin-bottom: -2rem;
-    
-
+#jumbotron-size {
+  margin-bottom: -2rem;
 }
 /* added google font raleway  */
-.lead{
-    font-family: 'Raleway', sans-serif;
+.lead {
+  font-family: "Raleway", sans-serif;
 }
 
 /* overriding bootstrap..adding white border to collapsed menu button */
-#navbar-toggler1{
-    border: 1px solid white;
+#navbar-toggler1 {
+  border: 1px solid white;
 }
 
 /* adding a pseudo class to footer input */
-#pseudo:focus { 
-    background-color: yellow;
+#pseudo:focus {
+  background-color: yellow;
 }
