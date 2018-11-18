@@ -12,6 +12,23 @@ footer{
     color: white;
 }
 
+/* reducing the built in marhin in jumbotron */
 #jumbotron-size{
     margin-bottom: -2rem;
+    
+
+}
+/* added google font raleway  */
+.lead{
+    font-family: 'Raleway', sans-serif;
+}
+
+/* overriding bootstrap..adding white border to collapsed menu button */
+#navbar-toggler1{
+    border: 1px solid white;
+}
+
+/* adding a pseudo class to footer input */
+#pseudo:focus { 
+    background-color: yellow;
 }
