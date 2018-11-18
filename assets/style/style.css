@@ -11,8 +11,8 @@ footer {
   color: white;
 }
 /* added hover pseudo class to nav bar */
-.navbar-custom a:hover { 
-    background-color: yellow;
+.navbar-custom a:hover {
+  background-color: yellow;
 }
 /* reducing the built in marhin in jumbotron */
 #jumbotron-size {
@@ -33,3 +33,7 @@ footer {
   background-color: yellow;
 }
 
+.signup-div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
