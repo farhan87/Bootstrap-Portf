@@ -1,0 +1,17 @@
+footer{
+    border: 1px solid teal;
+    background: teal;
+}
+
+.navbar-custom{
+    background-color: teal;
+    
+}
+
+.navbar-custom a{
+    color: white;
+}
+
+#jumbotron-size{
+    margin-bottom: -2rem;
+}
