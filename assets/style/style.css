@@ -37,3 +37,8 @@ footer {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+/* gives margim in mobile form */
+#btn-mar{
+  margin-bottom: 5px;
+}
